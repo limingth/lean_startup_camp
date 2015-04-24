@@ -21,6 +21,7 @@
 * [AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x](https://almsaeedstudio.com/preview)
 
 ## 知识库
+* meteor 官方文档：https://docs.meteor.com/
 * 常用 package 搜索：[atmosphere](https://atmospherejs.com/)
 * [Cordova:调用手机 media 功能的 API](https://gist.github.com/luckyyang/00286f1a505933d95b84)
 * [IOS app如何打包和发布](https://gist.github.com/luckyyang/11f63b98c5d29bc22086)
