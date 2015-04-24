@@ -3,9 +3,12 @@
 ## 科普 & 基础知识
 * Meteor是什么 & 优缺点
   * [2015.03.08 毛豆网Meteor开发者交流日 Kevin 演讲视频](http://www.youku.com/playlist_show/id_23545469.html) 
+  * [Meteor适合精益创业](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
+  * [Meteor适合初学者](http://learn.meteorfactory.io/9-reasons-meteor-is-a-great-choice-for-beginners/)
 * 哪些公司在用 meteor？
-  * [Quora：Which startups use Meteor in production?](http://www.quora.com/Which-startups-use-Meteor-in-production)
-  * [Quora：What are some web applications built with Meteor.js?](http://www.quora.com/What-are-some-web-applications-built-with-Meteor-js)
+  * [Quora：哪些startups 使用了 Meteor?](http://www.quora.com/Which-startups-use-Meteor-in-production)
+  * [Quora：哪些 web applications 使用了 Meteor?](http://www.quora.com/What-are-some-web-applications-built-with-Meteor-js)
+  * [Made with Meteo](http://madewith.meteor.com/)
 * Meteor基础视频课程
   * [麦子学院Kevin视频教程：node.js上最新HTML5开发框架-Meteor](http://www.maiziedu.com/lesson/3446/)
 
