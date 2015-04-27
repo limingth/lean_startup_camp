@@ -64,3 +64,6 @@
   * 阿里云
   * linode
 * 部署流程
+
+* 参考项目
+  * https://github.com/limingth/maodou
