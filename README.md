@@ -65,5 +65,5 @@
   * linode
 * 部署流程
 
-* 参考项目
-  * https://github.com/limingth/maodou
+## 参考项目
+* https://github.com/limingth/maodou
