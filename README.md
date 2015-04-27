@@ -31,6 +31,7 @@
 * [Android  app如何打包和发布](https://gist.github.com/luckyyang/e74b8f2af243dfa713bc)
 * [robomongo怎么看看服务器的数据](https://gist.github.com/luckyyang/c30638ee236d62b3b8e5)
 * 左侧菜单模版: [Demo](http://maodou-ionic-example.meteor.com) [Code](https://github.com/netanelgilad/meteor-ionic-example)
+* [i18n(中文化)](https://gist.github.com/luckyyang/97584597e645350f954a)
  
 ## 常用 package
 * 如何使用 package？
