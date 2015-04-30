@@ -70,3 +70,4 @@
 ## 参考项目
 * https://github.com/limingth/maodou
 * https://github.com/luckyyang/vote
+* 高德地图定位集成：https://github.com/limingth/didipoop
