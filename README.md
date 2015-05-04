@@ -37,20 +37,24 @@
 ## 知识库
 * meteor 官方文档：https://docs.meteor.com/
 * [meteor 常用学习网站](https://github.com/maodouio/meteor-lean-startup-camp/wiki/meteor%E5%B8%B8%E7%94%A8%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99)
+* [meteor 数据详解](https://medium.com/@stubailo/data-flow-from-the-database-to-the-ui-three-layers-of-meteor-d5e208b466c3)
+* [Meteor DDP翻译](https://cnodejs.org/topic/51b030d9555d34c678e5fb2e)
 * [常用 sublime 插件](https://github.com/maodouio/meteor-lean-startup-camp/wiki/sublime-%E7%9A%84-meteor-%E6%8F%92%E4%BB%B6)
 * [常用 atom 插件](https://atom.io/packages/meteor-api)
 * 常用 package 搜索：[atmosphere](https://atmospherejs.com/)
 * [Cordova:调用手机 media 功能的 API](https://gist.github.com/luckyyang/00286f1a505933d95b84)
-* [IOS app如何打包和发布](https://gist.github.com/luckyyang/11f63b98c5d29bc22086)
 * [robomongo怎么看看服务器的数据](https://gist.github.com/luckyyang/c30638ee236d62b3b8e5)
 * 左侧菜单模版: [Demo](http://maodou-ionic-example.meteor.com) [Code](https://github.com/netanelgilad/meteor-ionic-example)
-- 用户
-  * [用户注册登录的i18n(中文化)](https://gist.github.com/luckyyang/97584597e645350f954a)
-  * [注册时添加自定义字段](https://github.com/meteor-useraccounts/core/blob/master/Guide.md#form-fields-configuration)
+* 用户
+  - [用户注册登录的i18n(中文化)](https://gist.github.com/luckyyang/97584597e645350f954a)
+  - [注册时添加自定义字段](https://github.com/meteor-useraccounts/core/blob/master/Guide.md#form-fields-configuration)
 
-- Android相关知识
- * [Android  app如何打包和发布](https://gist.github.com/luckyyang/e74b8f2af243dfa713bc)
- * [android 键盘输入时input框空白问题](https://github.com/maodouio/meteor-lean-startup-camp/wiki/meteoric-Android-keyboard-issue)
+* IOS相关知识
+  - [IOS app如何打包和发布](https://gist.github.com/luckyyang/11f63b98c5d29bc22086)
+
+* Android相关知识
+ - [Android  app如何打包和发布](https://gist.github.com/luckyyang/e74b8f2af243dfa713bc)
+ - [android 键盘输入时input框空白问题](https://github.com/maodouio/meteor-lean-startup-camp/wiki/meteoric-Android-keyboard-issue)
 
  
 ## 常用 package
