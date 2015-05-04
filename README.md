@@ -1,3 +1,4 @@
+# 所有内容已转移到 https://github.com/maodouio/meteor-lean-startup-camp
 # Meteor 项目孵化营学习资料
 
 ## 科普 & 基础知识
