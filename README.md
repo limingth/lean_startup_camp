@@ -17,6 +17,17 @@
 * [免费初学者电子书：Your First Meteor Application](http://meteortips.com/)
 * [discover meteor](http://zh.discovermeteor.com/): 建议先看完Your First Meteor Application，再看这本书
 
+## 开发环境
+* 安装：
+  * windows：下载 https://install.meteor.com/windows
+  * OSX：命令行`curl https://install.meteor.com/ | sh`
+* 工具：
+  * 代码编辑器：sublime，atom，webstrom
+  * 版本控制：git
+  * 代码托管：github
+  * 命令行
+  * 调试：chrome 开发者工具
+
 ## 前端框架选择
 * [meteoric](http://meteoric.github.io/): very mobile app oriented, not friendly to web site。所以如果你想做 mobile app，就使用它吧
 * [bootstrap](http://getbootstrap.com/): general framework for pc & tablet & mobile, not specially for mobile use
@@ -25,6 +36,9 @@
 
 ## 知识库
 * meteor 官方文档：https://docs.meteor.com/
+* [meteor 常用学习网站](https://github.com/maodouio/meteor-lean-startup-camp/wiki/meteor%E5%B8%B8%E7%94%A8%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99)
+* [常用 sublime 插件](https://github.com/maodouio/meteor-lean-startup-camp/wiki/sublime-%E7%9A%84-meteor-%E6%8F%92%E4%BB%B6)
+* [常用 atom 插件](https://atom.io/packages/meteor-api)
 * 常用 package 搜索：[atmosphere](https://atmospherejs.com/)
 * [Cordova:调用手机 media 功能的 API](https://gist.github.com/luckyyang/00286f1a505933d95b84)
 * [IOS app如何打包和发布](https://gist.github.com/luckyyang/11f63b98c5d29bc22086)
@@ -45,17 +59,6 @@
 * 图片裁剪：https://atmospherejs.com/jonblum/jquery-cropper
 * 用户登录注册：https://atmospherejs.com/meteor/accounts-password
 * 登录注册 UI：https://atmospherejs.com/meteor/accounts-ui
-
-## 开发环境
-* 安装：
-  * windows：下载 https://install.meteor.com/windows
-  * OSX：命令行`curl https://install.meteor.com/ | sh`
-* 工具：
-  * 代码编辑器：sublime，atom，webstrom
-  * 版本控制：git
-  * 代码托管：github
-  * 命令行
-  * 调试：chrome 开发者工具
 
 ## 开发流程
 * 修改代码
