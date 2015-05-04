@@ -1,4 +1,4 @@
-# Meteor 项目孵化营 learning path
+# Meteor 项目孵化营学习资料
 
 ## 科普 & 基础知识
 * Meteor是什么 & 优缺点
