@@ -32,6 +32,7 @@
 * 左侧菜单模版: [Demo](http://maodou-ionic-example.meteor.com) [Code](https://github.com/netanelgilad/meteor-ionic-example)
 * [用户注册登录的i18n(中文化)](https://gist.github.com/luckyyang/97584597e645350f954a)
 * [注册时添加自定义字段](https://github.com/meteor-useraccounts/core/blob/master/Guide.md#form-fields-configuration)
+
 ### Android相关知识
 * [Android  app如何打包和发布](https://gist.github.com/luckyyang/e74b8f2af243dfa713bc)
 * [android 键盘输入时input框空白问题](https://github.com/maodouio/meteor-lean-startup-camp/wiki/meteoric-Android-keyboard-issue)
